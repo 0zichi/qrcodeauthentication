@@ -1,0 +1,2 @@
+# qrcodeauthentication
+This is basically a product authentication page that allows the admin to generate qr codes for products with information stored n the qr code and also regsiter qr codes with their umber into the database. This web application also gives the users the qr code scanning option to scan the codes to see the information stored in it, it also allows for reporting of products to the admin which the admin will be able to see. Other functions are also available via this platform
